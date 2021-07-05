@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FasterVersionConverter", "FasterVersionConverter\FasterVersionConverter.csproj", "{D0104D8E-CC43-48BF-AA41-0CECAFEA5CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FasterVersionConverter.Tests", "FasterVersionConverter.Tests\FasterVersionConverter.Tests.csproj", "{73742DE3-E4E1-4943-B133-F49E6E6A5149}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution files", "Solution files", "{5CAF1B70-52B7-4ACF-88D2-8A3EFA792CDF}"
+ProjectSection(SolutionItems) = preProject
+	FasterVersionConverter.Benchmark-report-github.md = FasterVersionConverter.Benchmark-report-github.md
+	README.md = README.md
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0104D8E-CC43-48BF-AA41-0CECAFEA5CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0104D8E-CC43-48BF-AA41-0CECAFEA5CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0104D8E-CC43-48BF-AA41-0CECAFEA5CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0104D8E-CC43-48BF-AA41-0CECAFEA5CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73742DE3-E4E1-4943-B133-F49E6E6A5149}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73742DE3-E4E1-4943-B133-F49E6E6A5149}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73742DE3-E4E1-4943-B133-F49E6E6A5149}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73742DE3-E4E1-4943-B133-F49E6E6A5149}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
